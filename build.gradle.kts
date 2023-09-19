@@ -36,7 +36,7 @@ dependencies {
         artifact { classifier = "sources" }
         isTransitive = false
     }
-    ktfmt("com.facebook:ktfmt:0.44")
+    ktfmt("com.facebook:ktfmt:0.46")
 }
 
 tasks {
